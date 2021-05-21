@@ -1,0 +1,1 @@
+console.log('Código de Typescript probando')
